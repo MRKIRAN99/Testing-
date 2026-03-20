@@ -1,0 +1,16 @@
+{
+  "name": "test",
+  "symbol": "test",
+  "description": "This is a test token created on Solana.",
+  "image": "https://i.ibb.co/vWqqRQJ/image.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://i.ibb.co/vWqqRQJ/image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
